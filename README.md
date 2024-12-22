@@ -1,2 +1,2 @@
-# try-of-freshman
-a freshman's try of CS61A 2020Fall Hog
+# attention
+Many methods is not my original, and if you can improve the hog.py, I'm glad to hear from you.😸
